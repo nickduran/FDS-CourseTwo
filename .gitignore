@@ -6,3 +6,17 @@
 
 # Jupyter autosave noise
 .ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Student data. THIS FORK IS PUBLIC (nickduran/FDS-CourseTwo).
+# Anything committed here is world-readable on GitHub under Nick's name, and
+# stays in git history even after deletion. Downloaded submissions, grade
+# exports, and rosters must never land in this repo -- they belong in the
+# private FDS-CourseTwo-working, or outside both repos.
+# No .zip is tracked in this repo, so ignoring them costs nothing; if you ever
+# need to commit a legitimate one, `git add -f <file>` overrides this.
+# ---------------------------------------------------------------------------
+student-submissions/
+submissions/
+grades/
+*.zip
